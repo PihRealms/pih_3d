@@ -136,8 +136,8 @@ li {
 
 @media (max-width:960px) {
     .back {
-        font-size: 4px;
-        line-height: 10px;
+        font-size: 8px;
+        line-height: 15px;
         padding: 10px;
     }
 }
