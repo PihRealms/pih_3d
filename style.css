@@ -134,7 +134,7 @@ li {
     word-wrap: break-word;
 }
 
-@media (max-width:480px) {
+@media (max-width:960px) {
     .back {
         font-size: 4px;
         line-height: 10px;
